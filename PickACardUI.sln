@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACardUI", "PickACardUI.csproj", "{8B064E80-0EB4-43DC-BDB9-6AD63EB848CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B064E80-0EB4-43DC-BDB9-6AD63EB848CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B064E80-0EB4-43DC-BDB9-6AD63EB848CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B064E80-0EB4-43DC-BDB9-6AD63EB848CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B064E80-0EB4-43DC-BDB9-6AD63EB848CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C65109-6778-4FAF-B40E-0486D88753A1}
+	EndGlobalSection
+EndGlobal
